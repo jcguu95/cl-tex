@@ -1,0 +1,6 @@
+* Jin-Cheng Guu
+
+=cl-tex=, a compiler from CL to TeX.
+
+Copyright (c) 2021 Jin-Cheng Guu
+All rights reserved.

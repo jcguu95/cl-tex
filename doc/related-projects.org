@@ -1,0 +1,13 @@
+* Related Projects
+
++ [[https://github.com/abo-abo/eltex][abo-abo/eltex: Write LaTeX in Emacs Lisp]] (Excellent, but
+  written in elisp.)
+
++ [[https://github.com/wadoon/cl-latex][wadoon/cl-latex: common-lisp markup language for generating
+  latex code]] (Appeared to be buggy for me.)
+
++ [[https://github.com/mbattyani/cl-pdf][mbattyani/cl-pdf: CL-PDF is a cross-platform Common Lisp
+  library for generating PDF files.]] (Generates pdf files
+  directly.)
+
++ [[https://alejandrogallo.github.io/listex/][LisTeX]] (Doesn't seem complete yet.)
